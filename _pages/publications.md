@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A list of my publications.
-years: [2018, 2020, 2021]
+description: A list of my publications. * indicates equal contribution.
+years: [2021, 2020, 2018]
 nav: true
 ---
 <!-- _pages/publications.md -->

@@ -6,7 +6,7 @@ years: [2023, 2022, 2021, 2020, 2018]
 nav: true
 ---
 
-A list of my publications. For a more comprehensive and accurate list, check my [Google Scholar](https://scholar.google.com/citations?user=GKJnjkgAAAAJ&hl=en).
+For a more comprehensive and accurate list, check my [Google Scholar](https://scholar.google.com/citations?user=GKJnjkgAAAAJ&hl=en).
 
 <!-- _pages/publications.md -->
 <div class="publications">

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in Machine Learning at KU Leuven
+# subtitle: PhD student in Machine Learning at KU Leuven
 
 profile:
   align: right

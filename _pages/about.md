@@ -17,8 +17,18 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at the VISICS lab within [ESAT-PSI](https://www.esat.kuleuven.be/psi) and the [LIIR](https://liir.cs.kuleuven.be/) lab within the [Computer Science Department](https://wms.cs.kuleuven.be/cs/english) at [KU Leuven](https://www.kuleuven.be/kuleuven/) under supervision of [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/) and [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/).
+I am a PhD student at the VISICS lab within [ESAT-PSI](https://www.esat.kuleuven.be/psi) and the [LIIR](https://liir.cs.kuleuven.be/) lab within the [Computer Science Department](https://wms.cs.kuleuven.be/cs/english) at [KU Leuven](https://www.kuleuven.be/kuleuven/) under supervision of [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/) & [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/).
 
-My current area of research ordinates around (but it's not limited to) Deep Learning and its applications in Natural Language Processing and Computer Vision. Among other things, I am interested in multimodal problems spanning images, text, and videos; weakly-supervised learning; video understanding; etc.
+Starting November 2023, I'll be working as a Research Consultant at [NEC Labs](https://www.neclab.eu/) in the [Human-Centic AI group](https://www.neclab.eu/research-areas/data-science/human-centric-ai).
 
-I graduated Cum Laude from a [Master of Artificial Intelligence](http://mai.kuleuven.be/) at KU Leuven, interned at [NEC Labs](https://www.neclab.eu/) (worked with [Kiril Gashteovski](https://scholar.google.de/citations?hl=en&user=ZO5DW7MAAAAJ&view_op=list_works&sortby=pubdate) and [Goran Glavas](https://sites.google.com/view/goranglavas)), [IBM Research](https://www.research.ibm.com/) (worked with [Jasmina Bogojeska](https://scholar.google.ch/citations?user=4nOIZLIAAAAJ&hl=de)) and [Luminovo](http://luminovo.ai/). More in the past, I did a Bachelor in [Computer Science](https://www.finki.ukim.mk/en) at University of Ss. Cyril and Methodius in North Macedonia.
+My current area of research ordinates around (but it's not limited to) Deep Learning and its applications in Natural Language Processing and Computer Vision. Among other things, I am interested in multimodal problems spanning images, text, videos and audio; weakly-supervised learning; (egocentric) video understanding; knowledge-graphs; etc.
+
+I've completed internships at:
+
+- [NEC Labs](https://www.neclab.eu/) (worked with [Kiril Gashteovski](https://scholar.google.de/citations?hl=en&user=ZO5DW7MAAAAJ&view_op=list_works&sortby=pubdate) & [Goran Glavas](https://sites.google.com/view/goranglavas));
+  - Published at EMNLP (2023): Linking Surface Facts to Large-Scale Knowledge Graphs
+- [IBM Research](https://www.research.ibm.com/) (worked with [Jasmina Bogojeska](https://scholar.google.ch/citations?user=4nOIZLIAAAAJ&hl=de))
+  - Published in the Journal of Infections diseases (2021): [Cohort-derived machine learning models for individual prediction of chronic kidney disease in people living with HIV](https://academic.oup.com/jid/article/224/7/1198/5835004)
+- [Luminovo](http://luminovo.ai/)
+
+In the past, I graduated cum laude from the [Master in Artificial Intelligence](https://www.kuleuven.be/programmes/master-artificial-intelligence) at KU Leuven (Belgium), and before that I did a Bachelor in [Computer Science](https://www.finki.ukim.mk/en) at University of Ss. Cyril and Methodius in North Macedonia.

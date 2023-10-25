@@ -91,6 +91,11 @@
           {%- if entry.equal == "yes" -%}
             <span style="font-size: small;">*Equal contribution</span>
           {%- endif -%}
+          {%- if entry.award -%}
+            <div class="abbr">
+              <abbr class="badge" style="font-weight: normal;">{{entry.award}}</abbr>
+            </div>
+          {%- endif -%}
           
         {%- endif %}
         

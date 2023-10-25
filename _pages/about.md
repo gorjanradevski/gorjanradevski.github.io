@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student (2019 -- Present) at the VISICS lab within [ESAT-PSI](https://www.esat.kuleuven.be/psi) and the [LIIR](https://liir.cs.kuleuven.be/) lab within the [Computer Science Department](https://wms.cs.kuleuven.be/cs/english) at [KU Leuven](https://www.kuleuven.be/kuleuven/) under supervision of [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/) & [Prof. Marie-Francine Moens](https://people.cs.kuleuven.be/~sien.moens/).
 
-Starting November 2023, I'll be working as a Research Consultant at [NEC Labs](https://www.neclab.eu/) in the [Human-Centic AI group](https://www.neclab.eu/research-areas/data-science/human-centric-ai).
+Starting November 2023, I'll be working as a Research Consultant at [NEC Labs](https://www.neclab.eu/) in the [Human-Centric AI group](https://www.neclab.eu/research-areas/data-science/human-centric-ai).
 
 My current area of research ordinates around (but it's not limited to) Deep Learning and its applications in Natural Language Processing and Computer Vision. Among other things, I am interested in multimodal problems spanning images, text, videos, audio, knowledge graphs; weakly-supervised learning; (egocentric) video understanding; etc.
 

@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Postdoctoral Researcher at the VISICS lab within [ESAT-PSI](https://www.esat.kuleuven.be/psi), where I have been working with [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/) since June 2024. My research focuses on Deep Learning and its applications in Natural Language Processing and Computer Vision. My interests span a range of topics, including leveraging Large Language Models (LLMs) for multimodal challenges involving images, text, videos, audio, and knowledge graphs; weakly-supervised learning; and (egocentric) video understanding.
 
-In addition, I work as a remote Research Consultant with the [Human-Centric AI group](https://www.neclab.eu/research-areas/data-science/human-centric-ai) at [NEC Labs Europe](https://www.neclab.eu/) (since November 2023). My projects there explore cutting-edge topics such as LLMs, Retrieval-Augmented Generation (RAG), reasoning, and LLM agents.
+In addition, I work as a remote Research Consultant with the [Human-Centric AI group](https://www.neclab.eu/research-areas/data-science/human-centric-ai) at [NEC Labs Europe](https://www.neclab.eu/) (since November 2023). My projects there explore topics such as LLMs, Retrieval-Augmented Generation (RAG), reasoning, and LLM agents.
 
 During my Ph.D. and Master's studies, I gained valuable experience through Machine Learning research internships at the following organizations:
 

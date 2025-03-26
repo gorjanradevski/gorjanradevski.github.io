@@ -458,18 +458,18 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/gorjan-radevski", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-stackoverflow',
+        title: 'Stackoverflow',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://stackoverflow.com/users/3987085", "_blank");
         },
       },{
       id: 'light-theme',

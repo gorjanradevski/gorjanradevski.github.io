@@ -32,7 +32,7 @@ I completed my Ph.D. in 2024 at KU Leuven and continued as a full-time Postdocto
 
 In the past, I did Machine Learning research internships at:  
 
-- **[NEC Labs Europe](https://www.neclab.eu/):** Collaborated with [Kiril Gashteovski](https://www.neclab.eu/research-areas/data-science/human-centric-ai/people/dr-kiril-gashteovski), [Carolin Lawrence](https://carolinlawrence.github.io/), and [Goran Glavas](https://sites.google.com/view/goranglavas), leading to a publication at EMNLP 2023: [Linking Surface Facts to Large-Scale Knowledge Graphs](https://arxiv.org/abs/2310.14909).  
+- **[NEC Labs Europe](https://www.neclab.eu/):** Worked with [Kiril Gashteovski](https://www.neclab.eu/research-areas/data-science/human-centric-ai/people/dr-kiril-gashteovski), [Carolin Lawrence](https://carolinlawrence.github.io/), and [Goran Glavas](https://sites.google.com/view/goranglavas), leading to a publication at EMNLP 2023: [Linking Surface Facts to Large-Scale Knowledge Graphs](https://arxiv.org/abs/2310.14909).  
 
 - **[IBM Research](https://www.research.ibm.com/):** Worked with [Jasmina Bogojeska](https://scholar.google.ch/citations?user=4nOIZLIAAAAJ&hl=de) on medical applications of machine learning, resulting in a *Journal of Infectious Diseases* (2021) publication: [Cohort-Derived Machine Learning Models for Individual Prediction of Chronic Kidney Disease in People Living with HIV](https://academic.oup.com/jid/article/224/7/1198/5835004).  
 

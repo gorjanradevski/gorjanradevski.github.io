@@ -30,7 +30,7 @@ I am a Research Consultant with the [Human-Centric AI group](https://www.neclab.
 
 I completed my Ph.D. in 2024 at KU Leuven and continued as a full-time Postdoctoral Researcher at the VISICS lab within [ESAT-PSI](https://www.esat.kuleuven.be/psi) from June 2024 to March 2025, working with [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/). I now hold a part-time postdoctoral position at VISICS. My research focuses on Deep Learning and its applications in Natural Language Processing and Computer Vision, with interests in multimodal learning involving images, text, videos, audio, and knowledge graphs, as well as weakly-supervised learning and (egocentric) video understanding.
 
-My work has been published at top-tier venues including ACL, EMNLP (×2), CoNLL, NeurIPS, ICCV, and BMVC.
+My work as a leading author (or equal contributor) has been published at top-tier venues including NeurIPS (x2), ACL, EMNLP (×2), CoNLL, ICCV, and BMVC.
 
 In the past, I did Machine Learning research internships at:  
 

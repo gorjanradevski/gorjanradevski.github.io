@@ -26,11 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Research Consultant with the [Human-Centric AI group](https://www.neclab.eu/research-areas/data-science/human-centric-ai) at [NEC Labs Europe](https://www.neclab.eu/) (since November 2023), where I work on topics related to Large Language Models (LLMs), specifically on improving their alignment, reasoning, and interpretability.
+I am a Research Consultant with the [Human-Centric AI group](https://www.neclab.eu/research-areas/data-science/human-centric-ai) at [NEC Labs Europe](https://www.neclab.eu/) (since November 2023), where I work on topics related to Large Language Models (LLMs), specifically on improving their alignment, reasoning, and interpretability. I led (ML and engineering) the [LLM Explainer](https://www.nec.com/en/global/techrep/journal/g23/n02/230214.html) project, which won NEC's **Best Value Award globally in 2025**, which was also published at [ACL 2025](https://aclanthology.org/2025.acl-long.828/). I completed my Ph.D. in 2024 at KU Leuven and continued as Postdoctoral Researcher at the VISICS lab within [ESAT-PSI](https://www.esat.kuleuven.be/psi) from June 2024 to October 2025, working with [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/).
 
-I completed my Ph.D. in 2024 at KU Leuven and continued as a full-time Postdoctoral Researcher at the VISICS lab within [ESAT-PSI](https://www.esat.kuleuven.be/psi) from June 2024 to March 2025, working with [Prof. Tinne Tuytelaars](https://homes.esat.kuleuven.be/~tuytelaa/). I now hold a part-time postdoctoral position at VISICS.
-
-My research focuses on Deep Learning and its applications in Natural Language Processing and Computer Vision, with special interest in multimodal learning involving images, text, videos, audio, and knowledge graphs. My work as a leading author (or equal contributor) has been published at top-tier venues including NeurIPS (x2), ACL, EMNLP (×2), CoNLL, ICCV, and BMVC.
+My research focuses on Deep Learning with dual expertise in Natural Language Processing and Computer Vision, with special interest in multimodal learning involving images, text, videos, audio, and knowledge graphs. At NEC Labs, I work on methods for improving LLM trustworthiness, steerabilily, and reasoning. My work as a leading author (or equal contributor) has been published at top-tier venues including NeurIPS (×2), ACL, EMNLP (×2), CoNLL, ICCV, and BMVC.
 
 In the past, I did Machine Learning internships at:  
 
